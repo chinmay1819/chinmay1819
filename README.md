@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Nestjs, React js , Docker**
+- 🌱 I’m currently learning **Python, FastAPI,Nestjs, Angular , Docker**
 
-- 💬 Ask me about **Nodejs , Expressjs**
+- 💬 Ask me about **Nodejs , Expressjs, FastAPI, Python**
 
 - 📫 How to reach me **chinmaydeshpande34@gmail.com**
 
